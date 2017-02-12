@@ -3,57 +3,84 @@
 
     <item
         is-multidex="true"
-        jar="C:\_Android_Projects\Sunshine\Sunshine-Version-2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="C:\_Android_Projects\Sunshine\SunshineApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="21.1.2"
-        sha1="ab1c15f5b929fc68e6660b77e49c0275130a13a1">
-        <dex dex="C:\_Android_Projects\Sunshine\Sunshine-Version-2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_61ef097c5b7db93b685bfac7ae11c13c88cf87c9\classes.dex" />
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\_Android_Projects\Sunshine\SunshineApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_f80b64ef0e1519c0c127f9fe78032f1d2b449eeb\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\_Android_Projects\Sunshine\Sunshine-Version-2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\_Android_Projects\Sunshine\SunshineApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="21.1.2"
-        sha1="a178cb1d42db6320a15025b9c11881dc02419bc4">
-        <dex dex="C:\_Android_Projects\Sunshine\Sunshine-Version-2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9eb5dfc03e3b9b67080652e5dd12bfea484431de\classes.dex" />
+        sha1="662b386fa7578705e2440e47cf16fe6ff29eb13e">
+        <dex dex="C:\_Android_Projects\Sunshine\SunshineApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c2516ebd15f3e30063358e029f760f050984097a\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Home\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jar="C:\_Android_Projects\Sunshine\SunshineApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="21.1.2"
-        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
-        <dex dex="C:\_Android_Projects\Sunshine\Sunshine-Version-2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.2_76744c9436ae0f15bc621646a985349aeca65ca2\classes.dex" />
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\_Android_Projects\Sunshine\SunshineApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_201acbf3757ed45d8ccc260837ab1db768dbd17d\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\_Android_Projects\Sunshine\Sunshine-Version-2\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\jars\classes.jar"
+        jar="C:\Users\Home\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="21.1.2"
-        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
-        <dex dex="C:\_Android_Projects\Sunshine\Sunshine-Version-2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.2_6f56d587bb6db8d314f5bf9fd69d9112f546c0ce\classes.dex" />
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\_Android_Projects\Sunshine\SunshineApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.0_3adf242fcc8a94c939395c149bb4d1d2d64b23f8\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\_Android_Projects\Sunshine\Sunshine-Version-2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.2\jars\classes.jar"
+        jar="C:\_Android_Projects\Sunshine\SunshineApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4455eb3c59fc6299b085888a2c23d3959fceab39">
+        <dex dex="C:\_Android_Projects\Sunshine\SunshineApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_514209f04be247e56ede937d42959543bde43eb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_Android_Projects\Sunshine\SunshineApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\_Android_Projects\Sunshine\SunshineApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_6ec2d1b9e2e5882a798cf3f6dc4a7557fca0396b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_Android_Projects\Sunshine\SunshineApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\_Android_Projects\Sunshine\SunshineApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_6dc1488de4b05f026e1cc4a7d00f067b1360ac36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\_Android_Projects\Sunshine\SunshineApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.2\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="21.1.2"
         sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
-        <dex dex="C:\_Android_Projects\Sunshine\Sunshine-Version-2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-21.0.2_06bf49d23da03c228d31782bdaaf38ddc16e712c\classes.dex" />
+        <dex dex="C:\_Android_Projects\Sunshine\SunshineApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-21.0.2_c8fae159ca5a90ba702c820387c9be8ab75b3081\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\_Android_Projects\Sunshine\Sunshine-Version-2\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\jars\libs\internal_impl-21.0.2.jar"
+        jar="C:\_Android_Projects\Sunshine\SunshineApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="21.1.2"
-        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
-        <dex dex="C:\_Android_Projects\Sunshine\Sunshine-Version-2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.2_e705abcb13e7dc80ac40a87c4fd55536871f1983\classes.dex" />
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\_Android_Projects\Sunshine\SunshineApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.0_41f422153afceb0606d56e42f9bb8cc45b23987e\classes.dex" />
     </item>
 
 </items>
